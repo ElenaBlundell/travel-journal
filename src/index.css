@@ -5,7 +5,7 @@
   
 }
 
-#root {
+body {
   margin: 0 auto;
   color: #2B283A;
 }
@@ -36,9 +36,9 @@ header h2 {
 }
 
 header img {
-  margin: 1em;
+  margin: 0 1em;
   width: 1.8em;
-  height: 1.8em;
+  height: auto;
 }
 
 
