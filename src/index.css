@@ -29,6 +29,7 @@ header {
   align-items: center;
   padding: 2px;
   margin-bottom: 2em;
+  margin-top: 0;
 }
 
 header h2 {
