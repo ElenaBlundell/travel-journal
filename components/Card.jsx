@@ -9,7 +9,7 @@ export default function Card({place, country, googleMapsUrl, dateOfVisit, descri
             </div>
             <div className="card-info">
                 <div className="location">
-                    <img src="./images/location-pin.PNG" />
+                    <img src="./images/location-pin.png" />
                     <h4>{country}</h4>
                     <div className="google-map-link">
                         <a href={googleMapsUrl}>View on Google Maps</a>
