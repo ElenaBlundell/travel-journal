@@ -47,6 +47,7 @@ header img {
 .cards-list {
   width: 80vw;
   max-width: 800px;
+  min-width: 350px;
 }
 
 hr {
@@ -160,7 +161,7 @@ h1, h3 {
   }
 
   h1 {
-    margin-bottom: 1rem ;
+    margin-bottom: 1em ;
   }
     
 }
